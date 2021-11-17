@@ -1,0 +1,256 @@
+{
+    "START":
+        "Hello, I am a Bot made for Geneva Capital Pte that sends an image captcha for each new user that joins a group.",
+
+    "HELP":
+        "",
+
+    "COMMANDS":
+        "",
+
+    "CMD_NOT_ALLOW":
+        "",
+
+    "LANG_CHANGE":
+        "",
+
+    "LANG_SAME":
+        "",
+
+    "LANG_BAD_LANG":
+        "",
+
+    "LANG_NOT_ARG":
+        "",
+
+    "TIME_CHANGE":
+        "",
+
+    "TIME_OUT_RANGE":
+        "",
+
+    "TIME_NOT_NUM":
+        "",
+
+    "TIME_NOT_ARG":
+        "",
+
+    "DIFFICULTY_CHANGE":
+        "",
+
+    "DIFFICULTY_NOT_NUM":
+        "",
+
+    "DIFFICULTY_NOT_ARG":
+        "",
+
+    "CAPTCHA_MODE_CHANGE":
+        "",
+
+    "CAPTCHA_MODE_INVALID":
+        "",
+
+    "CAPTCHA_MODE_NOT_ARG":
+        "",
+
+    "WELCOME_MSG_SET":
+        "",
+
+    "WELCOME_MSG_UNSET":
+        "",
+
+    "WELCOME_MSG_SET_NOT_ARG":
+        "",
+
+    "RESTRICT_NON_TEXT_MSG_ENABLED":
+        "",
+
+    "RESTRICT_NON_TEXT_MSG_DISABLED":
+        "",
+
+    "RESTRICT_NON_TEXT_MSG_NOT_ARG":
+        "",
+
+    "IGNORE_LIST_ADD_NOT_ARG":
+        "",
+
+    "IGNORE_LIST_ADD_DUPLICATED":
+        "",
+
+    "IGNORE_LIST_ADD_LIMIT_EXCEEDED":
+        "",
+
+    "IGNORE_LIST_ADD_INVALID":
+        "",
+
+    "IGNORE_LIST_ADD_SUCCESS":
+        "",
+
+    "IGNORE_LIST_REMOVE_NOT_ARG":
+        "",
+
+    "IGNORE_LIST_REMOVE_SUCCESS":
+        "",
+
+    "IGNORE_LIST_REMOVE_NOT_IN_LIST":
+        "",
+
+    "IGNORE_LIST_EMPTY":
+        "",
+
+    "NEW_USER_IMG_CAPTION":
+        "Hello {}, welcome to {}. Please write a message with the numbers and/or letters that appear in this image to verify that you are a human. If you don't solve this captcha in {}, you restricted in the group.\n- Captcha Bot - Geneva Capital",
+
+    "NEW_USER_MATH_CAPTION":
+        "",
+
+    "NEW_USER_BUTTON_MODE":
+        "",
+
+    "CAPTCHA_SOLVED":
+        "Captcha solved, user verified.\nWelcome to the group, {}",
+
+    "CAPTCHA_INCORRECT_0":
+        "That is not the correct code. Try again...",
+
+    "CAPTCHA_INCORRECT_1":
+        "That is not the correct number. Check closely, the captcha has 4 numbers...",
+
+    "CAPTCHA_INCORRECT_MATH":
+        "",
+
+    "NEW_USER_KICK":
+        "",
+
+    "NEW_USER_KICK_NOT_RIGHTS":
+        "",
+
+    "NEW_USER_KICK_NOT_IN_CHAT":
+        "",
+
+    "BOT_CANT_KICK":
+        "",
+
+    "CANT_DEL_MSG":
+        "",
+
+    "NEW_USER_BAN":
+        "",
+
+    "NEW_USER_BAN_NOT_IN_CHAT":
+        "",
+
+    "NEW_USER_BAN_NOT_RIGHTS":
+        "",
+
+    "BOT_CANT_BAN":
+        "",
+
+    "SPAM_DETECTED_RM":
+        "",
+
+    "SPAM_DETECTED_NOT_RM":
+        "",
+
+    "NOT_TEXT_MSG_ALLOWED":
+        "",
+
+    "RM_SOLVE_KICK_MSG":
+        "",
+
+    "RM_SOLVE_KICK_MSG_YES":
+        "",
+
+    "RM_SOLVE_KICK_MSG_NO":
+        "",
+
+    "RM_WELCOME_MSG":
+        "",
+
+    "RM_WELCOME_MSG_YES":
+        "",
+
+    "RM_WELCOME_MSG_NO":
+        "",
+
+    "OTHER_CAPTCHA_BTN_TEXT":
+        "",
+
+    "PASS_BTN_TEXT":
+        "",
+
+    "ENABLE":
+        "",
+
+    "DISABLE":
+        "",
+
+    "ALREADY_ENABLE":
+        "",
+
+    "ALREADY_DISABLE":
+        "",
+
+    "CAN_NOT_GET_ADMINS":
+        "",
+
+    "VERSION":
+        "",
+
+    "ABOUT_MSG":
+        "",
+
+    "POLL_NEW_USER":
+        "",
+
+    "CAPTCHA_POLL_FAIL_0":
+        "",
+
+    "CAPTCHA_POLL_FAIL_1":
+        "",
+
+    "CAPTCHA_POLL_USAGE":
+        "",
+
+    "POLL_QUESTION_CONFIGURED":
+        "",
+
+    "POLL_OPTION_CONFIGURED":
+        "",
+
+    "POLL_CORRECT_OPTION_CONFIGURED":
+        "",
+
+    "POLL_CORRECT_OPTION_NOT_CONFIGURED":
+        "",
+
+    "POLL_NEW_USER_NOT_CONFIG":
+        "",
+
+    "CONNECT_USAGE":
+        "",
+
+    "CONNECT_JUST_ADMIN":
+        "",
+
+    "CONNECT_OK":
+        "",
+
+    "DISCONNECT_NOT_CONNECTED":
+        "",
+
+    "DISCONNECT_OK":
+        "",
+
+    "INVALID_GROUP_ID":
+        "",
+
+    "CHECK_CFG":
+        "",
+
+    "CMD_NOT_ALLOW_PRIVATE":
+        "",
+
+    "CMD_JUST_IN_PRIVATE":
+        ""
+}
